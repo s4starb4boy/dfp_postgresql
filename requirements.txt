@@ -1,0 +1,6 @@
+asgiref==3.7.2
+Django==4.2.1
+psycopg2-binary==2.9.6
+# sqlparse @ file:///C:/b/abs_83jn6owfpc/croot/sqlparse_1668793499314/work
+typing_extensions==4.6.3
+# tzdata @ file:///tmp/build/80754af9/python-tzdata_1611693927741/work
